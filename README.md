@@ -18,8 +18,6 @@ MillingStation es un gabinete de control CNC basado en *FluidNC*, diseñado para
 
 🚀 **¡Contribuye con el proyecto!** Si querés mejorar *MillingStation*, abrí un *Issue* o una *Pull Request* con tus cambios.
 
-📩 Para soporte, escribime a *tuemail@correo.com* o creá un *Issue* en este repositorio.
+📩 Para soporte, escribime a *meinardop@gmail.com* o creá un *Issue* en este repositorio.
 
-## 📜 Licencia
-
-📜 Si eres Nerd sigue este proyecto en Discord [MIT](https://opensource.org/licenses/MIT).
+📜 Si eres Nerd sigue este proyecto en [Discord]([https://opensource.org/licenses/MIT](https://discord.com/)).
