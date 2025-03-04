@@ -1,8 +1,11 @@
 # 🚀 MillingStation – Control Inteligente para CNC
+_MillingStation_ es un gabinete de control CNC basado en ESP32, diseñado para facilitar la operación de máquinas CNC mediante el uso del firmware de código abierto [_FluidNC_](http://wiki.fluidnc.com/)  
 
-✅ MillingStation es un gabinete de control CNC basado en ESP32, diseñado para facilitar la operación de máquinas CNC mediante el uso del firmware de código abierto [_FluidNC_](http://wiki.fluidnc.com/)
+* Integra 4 controladores ADI Trinami TMC5160, una fuente de poder, un display con información básica, un relé de potencia y una panel de control para una experiencia de uso intuitiva ⚡
+* Soporta conexiones WiFi y web UI, eliminando la necesidad de una PC dedicada 🛜
+* Es compatible con G-code y se configura fácilmente mediante un archivo de texto 📝
 
-✅ MillingStation integra 4 controladores ADI Trinami TMC5160, una fuente de poder, un display con información básica, y una panel de control para una experiencia de uso intuitiva. Soporta conexiones WiFi y web UI, eliminando la necesidad de una PC dedicada. Es compatible con G-code y se configura fácilmente mediante un archivo de texto. Revisa la [Wiki](https://github.com/Meina88/MillingStation/wiki) para más detalles.
+¡Revisa la [Wiki](https://github.com/Meina88/MillingStation/wiki) para más detalles! 📖
 
 ## 📸 Imágenes del Proyecto
 
@@ -22,16 +25,16 @@
 ✅ Integración con remitentes de G-Code vía USB como *UGS*, *LaserGRBL* o *LightBurn*,  
 ✅ Compatible con [Easel](easel.com) 
 
-___
-
 ## 💪 Contribuciones:
 
-MillingStation no es un proyecto de hardware abierto. Sin embargo hay muchas formas de contribuir:
+_MillingStation_ no es un proyecto de hardware abierto. Sin embargo hay muchas formas de contribuir:
 
 1. [Done](https://github.com/bdring/FluidNC?tab=readme-ov-file#donations) dinero a los desarrolladores de _FluidNC_ 💰
-2. Comparta su experiencia con MillingStation en la comunidad de [Discord](https://discord.gg/4UhWD5gH) 🤝
+2. Comparta su experiencia con _MillingStation_ en la comunidad de [Discord](https://discord.gg/4UhWD5gH) 🤝
 3. Comparta su setup y archivo de configuración 🚀
-4. Comparta sus trabajos en las redes sociales 🌐
+4. Comparta sus proyectos en las redes sociales 🌐
+___
+
 
 
 
