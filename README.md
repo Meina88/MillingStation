@@ -29,7 +29,7 @@ _MillingStation_ es un gabinete de control CNC basado en ESP32, diseñado para f
 
 _MillingStation_ no es un proyecto de hardware abierto. Sin embargo hay muchas formas de contribuir:
 
-1. [Done](https://github.com/bdring/FluidNC?tab=readme-ov-file#donations) dinero a los desarrolladores de _FluidNC_ 💰
+1. Haga una [donación](https://github.com/bdring/FluidNC?tab=readme-ov-file#donations) a los desarrolladores de _FluidNC_ 💰
 2. Comparta su experiencia con _MillingStation_ en la comunidad de [Discord](https://discord.gg/4UhWD5gH) 🤝
 3. Comparta su setup y archivo de configuración 🚀
 4. Comparta sus proyectos en las redes sociales 🌐
