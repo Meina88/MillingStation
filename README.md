@@ -23,14 +23,14 @@ _MillingStation_ es un gabinete de control CNC basado en ESP32, diseñado para f
 ✅ Control manual o por G-Code de cargas de potencia mediante relé interno integrado.    
 ✅ Control por software refrigerantes, lubricantes y 4 cargas inductivas adicionales.  
 ✅ Integración con remitentes de G-Code vía USB como *UGS*, *LaserGRBL*, *LightBurn*, etc.    
-✅ Soporte para [Easel](easel.com)  
+✅ Soporte para [Easel](https://easel.com/)  
 
 ## 💪 Contribuciones:
 
 _MillingStation_ no es un proyecto de hardware abierto. Sin embargo hay muchas formas de contribuir:
 
 1. Haga una [donación](https://github.com/bdring/FluidNC?tab=readme-ov-file#donations) a los desarrolladores de _FluidNC_ 💰
-2. Comparta su experiencia con _MillingStation_ en la comunidad de [Discord](https://discord.gg/4UhWD5gH) 🤝
+2. Comparta su experiencia con _MillingStation_ en la comunidad de [Discord](https://discord.gg/BERWVNFPaC)  🤝
 3. Comparta su setup y archivo de configuración 🚀
 4. Comparta sus proyectos en las redes sociales 🌐
 ___
