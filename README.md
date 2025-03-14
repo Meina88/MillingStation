@@ -15,15 +15,15 @@ _MillingStation_ es un gabinete de control CNC basado en ESP32, diseñado para f
 
 ## 🔥 Características Principales:
 
-✅ Optimizado para su uso con *FluidNC*  
-✅ Equipado con drivers *ADI Trinamic TMC5160 (3.1A RMS y picos de 4.4A )*  
-✅ Fuente de alimentación de alta eficiencia  
-✅ Display integrado, indicador LED de estados y alarma   
+✅ Optimizado para su uso con *[FluidNC](http://wiki.fluidnc.com/en/home)*.    
+✅ Equipado con drivers *ADI Trinamic TMC5160 (3.1A RMS y picos de 4.4A )*.    
+✅ Fuente de alimentación de alta eficiencia.  
+✅ Display integrado, indicador RGB de estados y alarma.   
 ✅ Comunicación UART para control de variadores de frecuencia, controles colgantes y pantallas externas.  
-✅ Control manual o por G-Code de cargas de potencia mediante relé interno integrado  
-✅ Control por software de hasta 6 cargas inductivas adicionales  
-✅ Integración con remitentes de G-Code vía USB como *UGS*, *LaserGRBL* o *LightBurn*,  
-✅ Compatible con [Easel](easel.com) 
+✅ Control manual o por G-Code de cargas de potencia mediante relé interno integrado.    
+✅ Control por software refrigerantes, lubricantes y 4 cargas inductivas adicionales.  
+✅ Integración con remitentes de G-Code vía USB como *UGS*, *LaserGRBL*, *LightBurn*, etc.    
+✅ Soporte para [Easel](easel.com)  
 
 ## 💪 Contribuciones:
 
